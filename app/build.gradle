@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.cw.androidcw1'
+    namespace 'com.cw.javaAndroid'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.cw.androidcw1"
+        applicationId "com.cw.javaAndroid"
         minSdk 28
         targetSdk 32
         versionCode 1
