@@ -10,28 +10,28 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.AndroidCW1"
+        android:theme="@style/Theme.javaAndroid"
         tools:replace="android:icon"
         tools:targetApi="31">
         <activity
-            android:name=".Screen.ExpensesDetails_Activity"
+            android:name="com.cw.javaAndroid.Screen.ExpensesDetails_Activity"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".Screen.ListExpenses_Activity"
+            android:name="com.cw.javaAndroid.Screen.ListExpenses_Activity"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".Screen.TripsDetails_Activity"
+            android:name="com.cw.javaAndroid.Screen.TripsDetails_Activity"
             android:exported="false" />
         <activity
-            android:name=".Screen.ListTrips_Activity"
+            android:name="com.cw.javaAndroid.Screen.ListTrips_Activity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
