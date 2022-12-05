@@ -17,7 +17,7 @@
         android:textStyle="bold"
         android:textColor="@color/black"
         android:drawablePadding="5dp"
-        android:drawableRight="@drawable/ic_baseline_emergency_24"
+        android:drawableRight="@drawable/icon_baseline_emergency_24"
         />
 
     <EditText
@@ -41,7 +41,7 @@
         android:textColor="@color/black"
         android:layout_marginTop="10dp"
         android:drawablePadding="5dp"
-        android:drawableRight="@drawable/ic_baseline_emergency_24"
+        android:drawableRight="@drawable/icon_baseline_emergency_24"
         />
 
     <EditText
@@ -65,7 +65,7 @@
         android:textColor="@color/black"
         android:layout_marginTop="10dp"
         android:drawablePadding="5dp"
-        android:drawableRight="@drawable/ic_baseline_emergency_24"
+        android:drawableRight="@drawable/icon_baseline_emergency_24"
         />
 
     <TextView
@@ -89,7 +89,7 @@
         android:textColor="@color/black"
         android:layout_marginTop="10dp"
         android:drawablePadding="5dp"
-        android:drawableRight="@drawable/ic_baseline_emergency_24"
+        android:drawableRight="@drawable/icon_baseline_emergency_24"
         />
     <RadioGroup
         android:layout_width="match_parent"
@@ -127,7 +127,7 @@
         android:textColor="@color/black"
         android:layout_marginTop="10dp"
         android:drawablePadding="5dp"
-        android:drawableRight="@drawable/ic_baseline_emergency_24"
+        android:drawableRight="@drawable/icon_baseline_emergency_24"
         />
 
     <EditText
