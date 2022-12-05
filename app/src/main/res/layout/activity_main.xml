@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@color/white"
     android:orientation="vertical"
-    tools:context=".Screen.ListTrips_Activity">
+    tools:context="com.cw.javaAndroid.Screen.ListTrips_Activity">
 
     <TextView
         android:id="@+id/Title_Trips"
@@ -48,7 +48,7 @@
         android:layout_marginLeft="20dp"
         android:layout_marginTop="20dp"
         android:layout_marginRight="20dp"
-        android:background="@drawable/backgr_edit"
+        android:background="@drawable/background_edit"
         android:backgroundTint="#ECE8E8" />
 
 
@@ -70,7 +70,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginEnd="20dp"
         android:layout_marginBottom="20dp"
-        android:src="@drawable/icon_baseline_add_24"
+        android:src="@drawable/icon_baseline_add"
         app:backgroundTint="#2196F3" />
 
 </RelativeLayout>

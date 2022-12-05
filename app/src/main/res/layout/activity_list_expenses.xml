@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@color/design_default_color_background"
     android:orientation="vertical"
-    tools:context=".Screen.ListExpenses_Activity">
+    tools:context="com.cw.javaAndroid.Screen.ListExpenses_Activity">
 
     <TextView
         android:id="@+id/Title_Trips"
@@ -58,7 +58,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginEnd="20dp"
         android:layout_marginBottom="20dp"
-        android:src="@drawable/icon_baseline_add_24"
+        android:src="@drawable/icon_baseline_add"
         app:backgroundTint="#2196F3" />
 
 </RelativeLayout>

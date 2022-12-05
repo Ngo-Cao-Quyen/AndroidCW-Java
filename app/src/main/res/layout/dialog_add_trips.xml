@@ -17,7 +17,7 @@
         android:textStyle="bold"
         android:textColor="@color/black"
         android:drawablePadding="5dp"
-        android:drawableRight="@drawable/icon_baseline_emergency_24"
+        android:drawableRight="@drawable/icon_baseline_emergency"
         />
 
     <EditText
@@ -25,7 +25,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="5dp"
-        android:background="@drawable/backgr_edit"
+        android:background="@drawable/background_edit"
         android:backgroundTint="#ECE8E8"
         android:hint="Enter Trip"
         android:inputType="text"
@@ -41,7 +41,7 @@
         android:textColor="@color/black"
         android:layout_marginTop="10dp"
         android:drawablePadding="5dp"
-        android:drawableRight="@drawable/icon_baseline_emergency_24"
+        android:drawableRight="@drawable/icon_baseline_emergency"
         />
 
     <EditText
@@ -49,7 +49,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="5dp"
-        android:background="@drawable/backgr_edit"
+        android:background="@drawable/background_edit"
         android:backgroundTint="#ECE8E8"
         android:hint="Enter Destination"
         android:inputType="text"
@@ -65,7 +65,7 @@
         android:textColor="@color/black"
         android:layout_marginTop="10dp"
         android:drawablePadding="5dp"
-        android:drawableRight="@drawable/icon_baseline_emergency_24"
+        android:drawableRight="@drawable/icon_baseline_emergency"
         />
 
     <TextView
@@ -73,7 +73,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="5dp"
-        android:background="@drawable/backgr_edit"
+        android:background="@drawable/background_edit"
         android:backgroundTint="#ECE8E8"
         android:hint="dd/mm/yyyy"
         android:inputType="text"
@@ -89,7 +89,7 @@
         android:textColor="@color/black"
         android:layout_marginTop="10dp"
         android:drawablePadding="5dp"
-        android:drawableRight="@drawable/icon_baseline_emergency_24"
+        android:drawableRight="@drawable/icon_baseline_emergency"
         />
     <RadioGroup
         android:layout_width="match_parent"
@@ -127,7 +127,7 @@
         android:textColor="@color/black"
         android:layout_marginTop="10dp"
         android:drawablePadding="5dp"
-        android:drawableRight="@drawable/icon_baseline_emergency_24"
+        android:drawableRight="@drawable/icon_baseline_emergency"
         />
 
     <EditText
@@ -135,7 +135,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="5dp"
-        android:background="@drawable/backgr_edit"
+        android:background="@drawable/background_edit"
         android:backgroundTint="#ECE8E8"
         android:hint="Enter Description"
         android:inputType="text"

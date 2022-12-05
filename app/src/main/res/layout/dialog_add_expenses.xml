@@ -28,7 +28,7 @@
         android:drawablePadding="5dp"
         android:layout_marginLeft="20dp"
         android:layout_marginTop="20dp"
-        android:drawableRight="@drawable/icon_baseline_emergency_24"
+        android:drawableRight="@drawable/icon_baseline_emergency"
         />
 
     <Spinner
@@ -38,7 +38,7 @@
         android:layout_marginLeft="20dp"
         android:layout_marginTop="5dp"
         android:layout_marginRight="20dp"
-        android:background="@drawable/backgr_edit"
+        android:background="@drawable/background_edit"
         android:backgroundTint="#ECE8E8"
         android:gravity="center"
         android:padding="5dp"
@@ -57,7 +57,7 @@
         android:drawablePadding="5dp"
         android:layout_marginLeft="20dp"
         android:layout_marginTop="20dp"
-        android:drawableRight="@drawable/icon_baseline_emergency_24"
+        android:drawableRight="@drawable/icon_baseline_emergency"
         />
 
     <EditText
@@ -67,7 +67,7 @@
         android:layout_marginLeft="20dp"
         android:layout_marginTop="5dp"
         android:layout_marginRight="20dp"
-        android:background="@drawable/backgr_edit"
+        android:background="@drawable/background_edit"
         android:backgroundTint="#ECE8E8"
         android:hint="Amount"
         android:inputType="numberDecimal"
@@ -84,7 +84,7 @@
         android:drawablePadding="5dp"
         android:layout_marginLeft="20dp"
         android:layout_marginTop="20dp"
-        android:drawableRight="@drawable/icon_baseline_emergency_24"
+        android:drawableRight="@drawable/icon_baseline_emergency"
         />
 
     <TextView
@@ -94,7 +94,7 @@
         android:layout_marginLeft="20dp"
         android:layout_marginTop="5dp"
         android:layout_marginRight="20dp"
-        android:background="@drawable/backgr_edit"
+        android:background="@drawable/background_edit"
         android:backgroundTint="#ECE8E8"
         android:hint="dd/mm/yyyy"
         android:inputType="text"
